@@ -6,7 +6,7 @@
 
 ### The Project
 
-<PAIRWORK WITH JINGYI
+<
 We created a Totoro-themed version of the classic Flappy Bird game, inspired by My Neighbour Totoro. Instead of the original bird, players control Totoro as he navigates through obstacles in a whimsical, nature-inspired setting. 
 Beyond the basic game mechanics, we customised the visual experience by replacing the original bird and pipes with my own Totoro-inspired illustrations and environmental assets. We also implemented a personalised game-over screen with custom typography, a final score display and a restart button. Something cool we did was to layer the pipes inbetween the bushes. On the coding side, we developed the collision detection, score tracking and restart functionality with spacebar as well so they can keep spamming the game.>
 
@@ -14,7 +14,7 @@ Beyond the basic game mechanics, we customised the visual experience by replacin
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![screenshot](02-mini-project/documentation/flappy-totoro.jpg) 
 
 <!-- Drop a screenshot or GIF of your finished project.
 Save it to a readme-assets/ folder inside this project folder.
