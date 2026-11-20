@@ -6,7 +6,7 @@
 
 ### The Project
 
-<!-- What is your project and what does it do?
+<
      Flock Off! is an interactive sheep-herding game where players control a sheepdog using their mouse to guide wandering sheep into a fenced enclosure. Instead of controlling the sheep directly, players must strategically position the dog to influence their movements. As the number of sheep increases with each stage, the game becomes increasingly chaotic and challenging. Set in a playful countryside environment, Flock Off! creates a lighthearted experience that tests players' patience, coordination and ability to keep their flock together.
 
 ---
