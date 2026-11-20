@@ -8,10 +8,10 @@
 
 ### Activities
 
-| Activity | What I Made                   |
-| -------- | ----------------------------- |
-| `4a`     | <baked cookies (strawberry, matcha, choc, cream)> |
-| `4b`     | <dashing blue circles of all shades> |
+| Activity | What I Made |
+| -------- | ----------- |
+| `4a` | Baked Cookies in 4 flavours |
+| `4a` | Dashing blue circles of all shades |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -25,8 +25,8 @@ learnt about classes, constructors and how properties and objects are tied to it
 
 ### Output
 
-[activity4a-video] https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing 
-[activity4b-video] https://drive.google.com/file/d/1wPIRwO5SXE32fQhVdqaCNlz-WdRMNx-4/view?usp=sharing
+![activity4a-video] https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing 
+![activity4b-video] https://drive.google.com/file/d/1wPIRwO5SXE32fQhVdqaCNlz-WdRMNx-4/view?usp=sharing
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
