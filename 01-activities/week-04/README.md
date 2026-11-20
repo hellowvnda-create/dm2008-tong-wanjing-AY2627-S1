@@ -25,6 +25,7 @@
 
 ### Output
 
+![screenshot](activity_4b/documentation/activity4b.jpg)
 [Watch Online](https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing) 4a
 [Watch Online](https://drive.google.com/file/d/1wPIRwO5SXE32fQhVdqaCNlz-WdRMNx-4/view?usp=sharing) 4b
 
