@@ -10,7 +10,6 @@
 
 This is my personal mono-repo for DM2008. It contains all my work across the semester — weekly activities, projects, and the final capstone — committed and documented progressively throughout the course.
 
-<!-- Feel free to personalize this description here -->
 
 ---
 
@@ -27,8 +26,7 @@ This is my personal mono-repo for DM2008. It contains all my work across the sem
 
 ## 🖼️ Project Highlights
 
-<!-- Optional: Showcase your favourite output from the semester here -->
-<!-- Add a screenshot or a short description of your best work -->
+<My favorite output is our final project, Flock Off!>
 
 ---
 
