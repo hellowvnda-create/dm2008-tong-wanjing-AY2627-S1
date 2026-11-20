@@ -8,10 +8,10 @@
 
 ### Activities
 
-| Activity | What I Made                   |
-| -------- | ----------------------------- |
-| `3a`     | <shocked and not shocked face> |
-| '3b`     | <moving colourful balloons tied to the groun> |
+| Activity | What I Made |
+| -------- | ----------- |
+| `3a` | Shocked and not shocked face |
+| `3b` | moving colourful balloons tied to the ground |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -27,9 +27,9 @@
 ![screenshot](activity_3b/documentation/activity3b-image01.jpg)
 ![screenshot](activity_3b/documentation/activity3b-image02.jpg) 
 ![screenshot](activity_3b/documentation/activity3b-image03.jpg)
-[activity3a-video] https://drive.google.com/file/d/1aqg6OmNeerhYOPDtUHC3kt-UoCga6nCe/view?usp=share_link
-[activity3b-video] https://drive.google.com/file/d/1HRZSDFonV6EJOg7XQs4d7BxdlnTgmN0h/view?usp=sharing
-[activity3b-video] https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing
+[Watch Online](https://drive.google.com/file/d/1aqg6OmNeerhYOPDtUHC3kt-UoCga6nCe/view?usp=share_link)
+[Watch Online](https://drive.google.com/file/d/1HRZSDFonV6EJOg7XQs4d7BxdlnTgmN0h/view?usp=sharing)
+[Watch Online](https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
