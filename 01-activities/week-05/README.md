@@ -8,9 +8,9 @@
 
 ### Activities
 
-| Activity | What I Made                   |
-| -------- | ----------------------------- |
-| `5a`     | colliding circles turning yellow |
+| Activity | What I Made |
+| -------- | ----------- |
+| `5a` | Colliding circles turning yellow |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
