@@ -27,8 +27,8 @@
 
 ![screenshot](01-activities/week-01/activity_1a/documentation/activity1a-image02.png)
 ![screenshot](01-activities/week-01/activity_1b/documentation/activity1b-image02.png)
-[activity1b-video1] https://drive.google.com/file/d/1ooK62rN4_cdhZ2NamskpGqDv4l3Rg6bY/view?usp=sharing 
-[activity1b-video2] https://drive.google.com/file/d/1OYqN4DAbqSSENGGi5Qp_U2jaaj_1BNRC/view?usp=share_link
+![activity1b-video1] https://drive.google.com/file/d/1ooK62rN4_cdhZ2NamskpGqDv4l3Rg6bY/view?usp=sharing 
+![activity1b-video2] https://drive.google.com/file/d/1OYqN4DAbqSSENGGi5Qp_U2jaaj_1BNRC/view?usp=share_link
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

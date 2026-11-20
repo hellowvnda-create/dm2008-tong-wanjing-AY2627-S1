@@ -28,11 +28,11 @@
 ![screenshot](activity_2a/documentation/activity2a-image01.jpg) 
 ![screenshot](activity_2a/documentation/activity2a-image02.jpg) 
 ![screenshot](activity_2a/documentation/activity2a-image03.jpg)
-[activity2a-video] https://drive.google.com/file/d/1v3FCYMFxhYNNjkLCVZlotiBtvYoDf278/view?usp=sharing
+![activity2a-video] https://drive.google.com/file/d/1v3FCYMFxhYNNjkLCVZlotiBtvYoDf278/view?usp=sharing
 ![screenshot](activity_2b/documentation/activity2a-image03.jpg) 
 ![screenshot](activity_2b/documentation/activity2b-image01.jpg) 
 ![screenshot](activity_2b/documentation/activity2b-image02.jpg)
-[activity2b-video] https://drive.google.com/file/d/1Q-c0X8bOtFwcNKUkDpfTiwHYH9aSVO9L/view?usp=sharing
+![activity2b-video] https://drive.google.com/file/d/1Q-c0X8bOtFwcNKUkDpfTiwHYH9aSVO9L/view?usp=sharing
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
