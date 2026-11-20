@@ -10,8 +10,8 @@
 
 | Activity | What I Made |
 | -------- | ----------- |
-| `2a` | Red Crab with Blue Hat|
-| `2b` | Cream Cake with Rainbow Sprinkles |
+| `1a` | Red Crab with Blue Hat|
+| `1b` | Cream Cake with Rainbow Sprinkles |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -27,8 +27,7 @@
 
 ![screenshot](documentation/activity1a-image02.jpg)
 ![screenshot](documentation/activity1b-image02.jpg)
-[Watch Online](https://drive.google.com/file/d/1ooK62rN4_cdhZ2NamskpGqDv4l3Rg6bY/view?usp=sharing)
-[Watch Online](https://drive.google.com/file/d/1OYqN4DAbqSSENGGi5Qp_U2jaaj_1BNRC/view?usp=share_link)
+[activity 1b](https://drive.google.com/file/d/1OYqN4DAbqSSENGGi5Qp_U2jaaj_1BNRC/view?usp=share_link)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

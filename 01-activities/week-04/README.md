@@ -11,7 +11,7 @@
 | Activity | What I Made |
 | -------- | ----------- |
 | `4a` | Baked Cookies in 4 flavours |
-| `4a` | Dashing blue circles of all shades |
+| `4b` | Dashing blue circles of all shades |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,14 @@
 
 ### This Week
 
-learnt about classes, constructors and how properties and objects are tied to it. incorporated randomness, speed and arrays in 4b again
+<learnt about classes, constructors and how properties and objects are tied to it. incorporated randomness, speed and arrays in 4b again>
 
 ---
 
 ### Output
 
-[activity4a-video] https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing 
-[activity4b-video] https://drive.google.com/file/d/1wPIRwO5SXE32fQhVdqaCNlz-WdRMNx-4/view?usp=sharing
+[Watch Online](https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing) 4a
+[Watch Online](https://drive.google.com/file/d/1wPIRwO5SXE32fQhVdqaCNlz-WdRMNx-4/view?usp=sharing) 4b
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
