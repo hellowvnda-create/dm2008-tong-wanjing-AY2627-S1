@@ -25,8 +25,8 @@
 
 ### Output
 
-![screenshot](documentation/activity1a-image02.jpg)
-![screenshot](documentation/activity1b-image02.jpg)
+![screenshot](activity_1a/documentation/activity1a-image02.jpg)
+![screenshot](activity_1b/documentation/activity1b-image02.jpg)
 [activity 1b](https://drive.google.com/file/d/1OYqN4DAbqSSENGGi5Qp_U2jaaj_1BNRC/view?usp=share_link)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.

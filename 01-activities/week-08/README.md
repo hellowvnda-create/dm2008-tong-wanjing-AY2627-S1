@@ -25,13 +25,13 @@
 
 ### Output
 
-![screenshot](documentation/activity8a-image01.jpg)
-![screenshot](documentation/activity8a-image02.jpg)
-![screenshot](documentation/activity8a-image03.jpg)
-![screenshot](documentation/activity8a-image04.jpg)
-![screenshot](documentation/activity8b-image01.jpg)
-![screenshot](documentation/activity8b-image02.jpg)
-![screenshot](documentation/activity8b-image03.jpg)
+![screenshot](activity_8a/documentation/activity8a-image01.jpg)
+![screenshot](activity_8a/documentation/activity8a-image02.jpg)
+![screenshot](activity_8a/documentation/activity8a-image03.jpg)
+![screenshot](activity_8a/documentation/activity8a-image04.jpg)
+![screenshot](activity_8b/documentation/activity8b-image01.jpg)
+![screenshot](activity_8b/documentation/activity8b-image02.jpg)
+![screenshot](activity_8b/documentation/activity8b-image03.jpg)
 
 ### 🎥 Demo Video
 [video8a] <https://drive.google.com/file/d/1dUQIYDegsiJ3hL7kGB47jtsrs6gcWhA6/view?usp=drive_link>

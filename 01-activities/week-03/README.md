@@ -23,8 +23,8 @@
 ---
 
 ### Output
-![screenshot](documentation/activity3a-image01.jpg)
-![screenshot](documentation/activity3a-image02.jpg)
+![screenshot](activity_3a/documentation/activity3a-image01.jpg)
+![screenshot](activity_3a/documentation/activity3a-image02.jpg)
 ![screenshot](activity_3b/documentation/activity3b-image01.jpg)
 ![screenshot](activity_3b/documentation/activity3b-image02.jpg) 
 ![screenshot](activity_3b/documentation/activity3b-image03.jpg)

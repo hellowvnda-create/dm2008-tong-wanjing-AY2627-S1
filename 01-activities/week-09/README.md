@@ -24,8 +24,8 @@
 
 ### Output
 
-![screenshot](documentation/activity9a-image01.jpg)
-![screenshot](documentation/activity9a-image02.jpg)
+![screenshot](activity_9a/documentation/activity9a-image01.jpg)
+![screenshot](activity_9a/documentation/activity9a-image02.jpg)
 
 ### 🎥 Demo Video
 [video] <https://drive.google.com/file/d/1hfBJVbLKn50AdrqXupi5x6XibUkI0BHS/view?usp=drive_link>
