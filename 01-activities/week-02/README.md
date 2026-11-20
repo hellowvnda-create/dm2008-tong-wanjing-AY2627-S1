@@ -8,10 +8,10 @@
 
 ### Activities
 
-| Activity | What I Made                   |
-| -------- | ----------------------------- |
-| `2a`     | <changing size bouncing ball--> |
-| `2b`     | <circle and square modulo --> |
+| Activity | What I Made |
+| -------- | ----------- |
+| `2a` | Bouncing ball |
+| `2b` | Alternating shapes |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,20 +19,22 @@
 
 ### This Week
 
-<!learned to use trail and how to use for loop, modulo structures to make interesting animations-->
+<Learned to use trail and how to use for loop, modulo structures to make interesting animations. Tried to do the buncing effect by consulting prof>
 
 ---
 
 ### Output
 
+<It bounces and changes colour when clicked
+
 ![screenshot](activity_2a/documentation/activity2a-image01.jpg) 
 ![screenshot](activity_2a/documentation/activity2a-image02.jpg) 
 ![screenshot](activity_2a/documentation/activity2a-image03.jpg)
-![activity2a-video] https://drive.google.com/file/d/1v3FCYMFxhYNNjkLCVZlotiBtvYoDf278/view?usp=sharing
+[Watch Online](https://drive.google.com/file/d/1v3FCYMFxhYNNjkLCVZlotiBtvYoDf278/view?usp=sharing)
 ![screenshot](activity_2b/documentation/activity2a-image03.jpg) 
 ![screenshot](activity_2b/documentation/activity2b-image01.jpg) 
 ![screenshot](activity_2b/documentation/activity2b-image02.jpg)
-![activity2b-video] https://drive.google.com/file/d/1Q-c0X8bOtFwcNKUkDpfTiwHYH9aSVO9L/view?usp=sharing
+[Watch Online](https://drive.google.com/file/d/1Q-c0X8bOtFwcNKUkDpfTiwHYH9aSVO9L/view?usp=sharing)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
