@@ -13,11 +13,10 @@
 
 ### Output
 
-![screenshot](documentation/finalproject-image01.jpg)
-![screenshot](documentation/finalproject-image02.jpg)
 ![screenshot](documentation/finalproject-image03.jpg)
 ![screenshot](documentation/finalproject-image04.jpg)
 ![screenshot](documentation/finalproject-image05.jpg)
+![screenshot](documentation/finalproject-image06.jpg)
 [video01](https://drive.google.com/file/d/1tEjJeI85-iA_NYKBXfEPgxT-XPesMqr-/view?usp=drive_link)
 [video02](https://drive.google.com/file/d/1q_7foy5ghyQGzCKRDjy3Vs4LG2EEpN5_/view?usp=drive_link)
 [video03](https://drive.google.com/file/d/1beXX9qqgRGSVbmZcnmbGTAzhGl45QZ5Y/view?usp=drive_link)
