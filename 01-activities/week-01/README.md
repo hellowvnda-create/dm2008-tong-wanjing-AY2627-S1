@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 01 — Intro to Creative Coding
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | <A red crab with a party hat> |
+| `1b`     | <Cream cake with rainbow sprinkles> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,16 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+<Learning how to use the fundamentals of p5js and creating basic shapes and making use of randomness, i used arrays earlie, for randomising colours-->
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](01-activities/week-01/activity_1a/documentation/activity1a-image02.png)
+![screenshot](01-activities/week-01/activity_1b/documentation/activity1b-image02.png)
+[activity1b-video1] https://drive.google.com/file/d/1ooK62rN4_cdhZ2NamskpGqDv4l3Rg6bY/view?usp=sharing 
+[activity1b-video2] https://drive.google.com/file/d/1OYqN4DAbqSSENGGi5Qp_U2jaaj_1BNRC/view?usp=share_link
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 02 — control flaws and interactivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `2a`     | <changing size bouncing ball--> |
+| `2b`     | <circle and square modulo --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,20 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+<!learned to use trail and how to use for loop, modulo structures to make interesting animations-->
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](activity_2a/documentation/activity2a-image01.jpg) 
+![screenshot](activity_2a/documentation/activity2a-image02.jpg) 
+![screenshot](activity_2a/documentation/activity2a-image03.jpg)
+[activity2a-video] https://drive.google.com/file/d/1v3FCYMFxhYNNjkLCVZlotiBtvYoDf278/view?usp=sharing
+![screenshot](activity_2b/documentation/activity2a-image03.jpg) 
+![screenshot](activity_2b/documentation/activity2b-image01.jpg) 
+![screenshot](activity_2b/documentation/activity2b-image02.jpg)
+[activity2b-video] https://drive.google.com/file/d/1Q-c0X8bOtFwcNKUkDpfTiwHYH9aSVO9L/view?usp=sharing
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

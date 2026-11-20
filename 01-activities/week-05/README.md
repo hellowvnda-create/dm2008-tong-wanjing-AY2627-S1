@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week #05 — Object-oriented Programming (Part 2)
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `5a`     | <colliding circles turning yellow> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +18,13 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
+<learnt about collisiion, vectors, magnitude and heading. vectore creation within classes was something i found tricky.>
 
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+[activity5a-video] https://drive.google.com/file/d/1aqg6OmNeerhYOPDtUHC3kt-UoCga6nCe/view?usp=share_link
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

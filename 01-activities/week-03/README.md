@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 03 — arrays, functions, transformatics
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `3a`     | <shocked and not shocked face> |
+| '3b`     | <moving colourful balloons tied to the groun> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -19,14 +19,17 @@
 
 ### This Week
 
-<!-- A short, informal summary of what you explored across the week's activities. What did you make? What clicked? What didn't?
-     A few sentences is all you need — write it like a journal entry, not a report. -->
-
+<made use of more arrays and functions, including randomness from prevous lessons>
 ---
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](activity_3b/documentation/activity3b-image01.jpg)
+![screenshot](activity_3b/documentation/activity3b-image02.jpg) 
+![screenshot](activity_3b/documentation/activity3b-image03.jpg)
+[activity3a-video] https://drive.google.com/file/d/1aqg6OmNeerhYOPDtUHC3kt-UoCga6nCe/view?usp=share_link
+[activity3b-video] https://drive.google.com/file/d/1HRZSDFonV6EJOg7XQs4d7BxdlnTgmN0h/view?usp=sharing
+[activity3b-video] https://drive.google.com/file/d/1oBnEhCjayXrqJKY9bKRkKY9rgRfn_7mV/view?usp=sharing
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
