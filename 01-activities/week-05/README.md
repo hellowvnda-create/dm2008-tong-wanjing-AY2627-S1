@@ -10,7 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `5a`     | <colliding circles turning yellow> |
+| `5a`     | colliding circles turning yellow |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -24,7 +24,7 @@
 
 ### Output
 
-[activity5a-video] https://drive.google.com/file/d/1aqg6OmNeerhYOPDtUHC3kt-UoCga6nCe/view?usp=share_link
+![activity5a-video] https://drive.google.com/file/d/1aqg6OmNeerhYOPDtUHC3kt-UoCga6nCe/view?usp=share_link
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
