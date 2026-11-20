@@ -14,7 +14,7 @@ Beyond the basic game mechanics, we customised the visual experience by replacin
 
 ### Output
 
-![screenshot](02-mini-project/documentation/flappy-totoro.jpg) 
+![screenshot](documentation/flappy-totoro.jpg) 
 
 <!-- Drop a screenshot or GIF of your finished project.
 Save it to a readme-assets/ folder inside this project folder.
